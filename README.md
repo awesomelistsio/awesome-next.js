@@ -47,6 +47,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Tailwind CSS + Next.js](https://tailwindcss.com/docs/guides/nextjs) – Official integration guide.
 - [shadcn/ui](https://github.com/shadcn/ui) – Popular component library built for Next.js + React.
+- [Payload Components](https://www.payload-components.xyz) – MIT registry and CLI for installing typed Payload CMS blocks into Payload v3 + Next.js projects as source-owned code.
 - [Mantine](https://github.com/mantinedev/mantine) – React component library with SSR support.
 - [Material UI](https://github.com/mui/material-ui) – Well-known React UI library with server-side rendering compatibility.
 - [Radix UI](https://github.com/radix-ui/primitives) – Unstyled, accessible UI primitives.
