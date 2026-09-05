@@ -1,4 +1,4 @@
-# Awesome Next.js [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Next.js [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1106652647.svg)](https://doi.org/10.5281/zenodo.19680514)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -110,11 +110,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome React](https://github.com/awesomelistsio/awesome-react)
-- [Awesome Tailwind CSS](https://github.com/awesomelistsio/awesome-tailwindcss)
-- [Awesome TypeScript](https://github.com/awesomelistsio/awesome-typescript)
-- [Awesome Serverless](https://github.com/awesomelistsio/awesome-serverless)
-- [Awesome Web Performance](https://github.com/awesomelistsio/awesome-web-performance)
+- [Awesome React](https://github.com/brandonhimpfen/awesome-react)
+- [Awesome Tailwind CSS](https://github.com/brandonhimpfen/awesome-tailwindcss)
+- [Awesome TypeScript](https://github.com/brandonhimpfen/awesome-typescript)
+- [Awesome Serverless](https://github.com/brandonhimpfen/awesome-serverless)
+- [Awesome Web Performance](https://github.com/brandonhimpfen/awesome-web-performance)
 
 ## Contribute
 
